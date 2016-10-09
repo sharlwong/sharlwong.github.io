@@ -62,3 +62,10 @@
 }
 .line {
 }
+.icon {
+}
+.fontawesome {
+  font-family:'FontAwesome', 'FontAwesome';
+  font-size:36px;
+  color:#797979;
+}
